@@ -1,5 +1,16 @@
 public class Main {
     public static void main(String[] args) {
+        // задача 1
+
+        byte dog=3;
+        short cat=4;
+        int box=5;
+        long elefant=150L;
+        float sugarWeight=4.5f;
+        double apples=5.4;
+        char bar=33;
+        boolean dogIsAdult=dog>3;
+
 
         //задача 2
 
